@@ -2,3 +2,4 @@ This is a funny story.
 You might not think so.
 Just trust me.
 This is a test modification so I can see if git diff works.
+This was edited on a branch
